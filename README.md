@@ -1,6 +1,6 @@
-# Message Component for Chat Rooms
+# Message Component for Chat Room
 
-This is a Message Component for Chat Room, using creat-react-app, material-ui and hooks.
+This is a Message Component for Chat Room, using `creat-react-app`, `material-ui` and `hooks`.
 
 ## Install Dependencies
 
@@ -18,10 +18,10 @@ Execute `npm build` in bash.
 
 Execute `npm test` in bash.
 
-The line coverage of this Chat Component is 100%.
+😀😀😀 The line coverage of this Chat Component is 100%. 😀😀😀
 
 ## Features
 
-- [x] Support System messages
-- [x] Support Text messages
-- [x] Support Media messages
+- 🚩 Support System messages
+- 🚩 Support Text messages
+- 🚩 Support Media messages
