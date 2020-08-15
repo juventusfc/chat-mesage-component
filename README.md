@@ -2,6 +2,8 @@
 
 This is a Message Component for Chat Room, using `creat-react-app`, `material-ui` and `hooks`.
 
+Try [demo](https://codesandbox.io/s/chat-message-component-k4l0n).
+
 ## Install Dependencies
 
 Execute `npm install` in bash.
